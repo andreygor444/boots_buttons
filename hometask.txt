@@ -14,3 +14,18 @@ Merge branch 'boots_buttons'
 
 Файлы human.txt идентичны, а в файле README в ветке master к первой строчке добавился текст:
 with nice buttons on his jacket (buttons branch)
+
+
+Вижу 11 коммитов в удалённом репозитории
+Комментарии из них:
+1. add hometask.txt
+2. Merge branch 'boots_buttons'
+3. Merge remote-tracking branch 'origin/hat'
+4. Merge branch 'buttons' into boots_buttons
+5. Merge branch 'boots' into boots_buttons
+6. fix readme
+7. dots
+8. README added
+9. boots
+10. heat added
+11. init
