@@ -1,0 +1,16 @@
+Отличия между master и demo:
+В demo есть коммиты, которых нет в master:
+Merge branch 'boots' into release
+Merge branch 'buttons' into demo
+от Andrew Khodzhakhanov
+
+В master есть коммиты, которых нет в demo:
+fix readme
+Merge branch 'boots' into boots_buttons
+Merge branch 'buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+первый от Andrew Khodzhakhanov, остальные мои
+
+Файлы human.txt идентичны, а в файле README в ветке master к первой строчке добавился текст:
+with nice buttons on his jacket (buttons branch)
